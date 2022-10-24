@@ -1,1 +1,1 @@
-#pytorch_tutorials Image and video's promble
+#pytorch_tutorials Image and video's problem
